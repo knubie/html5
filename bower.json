@@ -1,0 +1,24 @@
+{
+  "name": "html5",
+  "version": "0.0.0",
+  "authors": [
+    "Matt Steedman <steedman87@gmail.com>"
+  ],
+  "description": "HTML5 boilerplate template",
+  "main": "index.html",
+  "keywords": [
+    "html5"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.0.0"
+  }
+}
